@@ -1,0 +1,19 @@
+{
+  "id": "f8da5971-67dd-4a79-8171-802a7b786b08",
+  "skill_id": "376cfb9d-daff-45eb-9913-137ea1457703",
+  "version": "1.0.0",
+  "author_id": "ab261845-a517-4502-8097-c18bf2518e37",
+  "title": "L-Spark GitHub 真实发布联调",
+  "summary": "虚构占位内容，用于验证 GitHub App 发布、版本恢复与下载完整性。",
+  "category": "other",
+  "jurisdictions": [
+    "中国大陆"
+  ],
+  "usage_scope": "仅使用虚构占位数据进行技术验收。",
+  "limitations": "无真实合同、个人信息或法律意见；仅供技术联调。",
+  "legal_references": [],
+  "legal_checked_on": null,
+  "license": "MIT",
+  "public_attribution": "L-Spark integration test",
+  "changelog": "真实 GitHub 发布验收"
+}
