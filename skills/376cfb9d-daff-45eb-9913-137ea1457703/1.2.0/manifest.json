@@ -1,0 +1,16 @@
+{
+  "version_id": "8243e0fb-df41-42a6-8d98-b30a1ce7d020",
+  "archive_sha256": "8b36f97b73cdfafa2a8dfbe33d5a857908683e1756d9935bf6ed4eae1380ffe3",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "2d31ea9da8fe90324d1d8f81b6d605da536b5020343615215e1998fd2f1b73e9",
+      "size": 1156
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "d19f827ea7de54dd7d02f344269442565d216dc23f3fdf2dd31ce3186065cd35",
+      "size": 319
+    }
+  ]
+}
